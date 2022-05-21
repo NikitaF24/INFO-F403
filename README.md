@@ -21,6 +21,11 @@ In this directory, you will find at least:
 
 <img width="390" alt="Capture d’écran 2022-05-21 à 03 34 10" src="https://user-images.githubusercontent.com/63092227/169629601-5257a5c4-021d-40eb-ba37-08237b5cf1c3.png">
 
-4. In order to launch the code: just do 
+4. Directory build corresponds to:
+
+<img width="643" alt="Capture d’écran 2022-05-21 à 03 45 05" src="https://user-images.githubusercontent.com/63092227/169629724-53599653-5ddc-4dfc-842b-25028926787c.png">
+
+
+5. In order to launch the code: just do 
 
 <img width="643" alt="Capture d’écran 2022-05-21 à 03 43 38" src="https://user-images.githubusercontent.com/63092227/169629652-a386daee-fecd-4d0e-a46c-7811d47ad56e.png">
